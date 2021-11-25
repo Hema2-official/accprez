@@ -1,0 +1,10 @@
+# Build files
+Accprez/bin/
+
+# Package files
+Accprez/obj/
+
+# Git and VS files
+.git/
+.vs/
+.vscode/
